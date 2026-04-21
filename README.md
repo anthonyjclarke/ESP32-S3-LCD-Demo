@@ -6,7 +6,7 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-6.x-orange.svg)
 ![Board](https://img.shields.io/badge/Waveshare-ESP32--S3--LCD--3.16-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-stable-green.svg)
 
 ---
 
